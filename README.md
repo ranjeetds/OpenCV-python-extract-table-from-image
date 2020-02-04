@@ -1,7 +1,7 @@
 # OpenCV-python-extract-table-from-image
 OpenCV script to extract table from binary matrix image (Can be applied to any image containing table) and travel from bottom row to top
 
-#IMPORTANT
+# IMPORTANT
 Script extract_data.py will extract table data in csv format from any image
 
 ## About getting solution
