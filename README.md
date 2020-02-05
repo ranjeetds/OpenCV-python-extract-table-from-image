@@ -21,5 +21,5 @@
 - Please run ```pip install requirements.txt```
 
 ### Notes
-- This script might not work out of the box for all the images, hence you might neet to edit script and tune parameters get optimal solutions for your images
+- This script might not work out of the box for all the images, hence you might neet to edit script and tune parameters to get optimal solutions for your images
 
