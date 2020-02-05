@@ -23,3 +23,6 @@
 ### Notes
 - This script might not work out of the box for all the images, hence you might neet to edit script and tune parameters to get optimal solutions for your images
 
+### How to run this script?
+- ```python3.x extract_data.py```
+- It will ask you to enter image name (Provide image name with path)
