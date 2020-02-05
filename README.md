@@ -18,7 +18,7 @@
 |4	| 0| 0|	1| 0|	0| 0|
 
 ### Requirements
-- Please run ```pip install requirements.txt```
+- Please run ```pip install -r requirements.txt```
 
 ### Notes
 - This script might not work out of the box for all the images, hence you might neet to edit script and tune parameters to get optimal solutions for your images
