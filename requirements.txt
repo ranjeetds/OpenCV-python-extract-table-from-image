@@ -1,0 +1,6 @@
+cv2
+numpy
+pandas
+pytesseract
+matplotlib
+statistics
